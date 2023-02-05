@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d0b19b7a28c05e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课业笔记/2022-2023秋冬学期/大学物理/期末复习知识点（公式汇总）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3417a51e0b6e78f0",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "课业笔记/2022-2023秋冬学期/大学物理/期末复习知识点（公式汇总）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "课业笔记/2022-2023秋冬学期/大学物理/期末复习知识点（公式汇总）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "课业笔记/2022-2023秋冬学期/大学物理/期末复习知识点（公式汇总）.md"
               }
             }
           }
@@ -147,6 +159,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "552df0311d4acdd0",
-  "lastOpenFiles": []
+  "active": "6d0b19b7a28c05e7",
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }
