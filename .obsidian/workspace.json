@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课业笔记/2022-2023秋冬学期/大学物理/大学物理期末复习知识点（公式汇总）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课业笔记/2022-2023秋冬学期/大学物理/大学物理期末复习知识点（公式汇总）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "课业笔记/2022-2023秋冬学期/大学物理/大学物理期末复习知识点（公式汇总）.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "123a664f4ceb0466",
+  "active": "6d0b19b7a28c05e7",
   "lastOpenFiles": [
     "课业笔记/2022-2023秋冬学期/大学物理/大学物理期末复习知识点（公式汇总）.md",
     "README.md"
