@@ -1,0 +1,16 @@
+font
+frac
+color
+cos
+alpha
+tani
+Delta
+phi
+pi
+bot
+lambda
+lvert
+left
+rvert
+right
+qquad
