@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "415c7bb17fa96334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课业笔记/2022-2023秋冬学期/概率论及数理统计/概率论及数理统计期末复习知识点（公式汇总）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "课业笔记/2022-2023秋冬学期/概率论及数理统计/概率论及数理统计期末复习知识点（公式汇总）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "课业笔记/2022-2023秋冬学期/概率论及数理统计/概率论及数理统计期末复习知识点（公式汇总）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,14 +152,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "课业笔记/2022-2023秋冬学期/概率论及数理统计/概率论及数理统计期末复习知识点（公式汇总）.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +173,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d0b19b7a28c05e7",
+  "active": "415c7bb17fa96334",
   "lastOpenFiles": [
+    "课业笔记/2022-2023秋冬学期/电工电子学/未命名.md",
     "课业笔记/2022-2023秋冬学期/大学物理/大学物理期末复习知识点（公式汇总）.md",
     "README.md"
   ]
