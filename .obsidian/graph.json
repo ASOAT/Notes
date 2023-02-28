@@ -8,24 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:阅读笔记/码",
+      "query": "path:科学与技术",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:听课笔记/码",
+      "query": "path:文化与未来",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:课业笔记",
+      "query": "path:艺术与设计",
       "color": {
         "a": 1,
-        "rgb": 6938706
+        "rgb": 11657298
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.28165328146789365,
+  "scale": 0.28165328146789403,
   "close": true
 }

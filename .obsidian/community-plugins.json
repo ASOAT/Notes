@@ -1,4 +1,6 @@
 [
   "obsidian-completr",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "media-extended",
+  "table-editor-obsidian"
 ]

@@ -1,4 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Atom",
+  "textFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "华文细黑"
 }
