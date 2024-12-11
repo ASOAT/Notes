@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Literature",
+  "literatureNoteContentTemplate": "Authors: {{authorString}}\nYear: {{year}}\nStatus: #literature\nTags: \n# {{title}}\n\n\n\n\n\n\n\n\n\n\n\n\n---\n# Extension Papers\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "E:\\Literature\\Citations.json"
+}

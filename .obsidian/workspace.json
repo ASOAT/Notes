@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/高斯分布.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高斯分布"
+            }
+          },
+          {
+            "id": "7c217e40206ecaf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Gaussian Process.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gaussian Process"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7301a5ffe10b16dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "946496e5a191e495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e70f2d6d0e5d808d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6e20cf939fd610b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1e4104a318546e10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "3cfa1e874126793e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "dee5626af549be37",
+    "type": "split",
+    "children": [
+      {
+        "id": "b52b6d3ac89ce584",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb8617ff022b7d7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              },
+              "icon": "lucide-list",
+              "title": "Home 的大纲"
+            }
+          },
+          {
+            "id": "1fdc60457aeb4eba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HomePage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "HomePage 的出链列表"
+            }
+          },
+          {
+            "id": "ba73a5bcc10b8df7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Home 的反向链接列表"
+            }
+          },
+          {
+            "id": "91f7ff72f712903c",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "bar-graph",
+              "title": "Daily Stats"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "7c217e40206ecaf7",
+  "lastOpenFiles": [
+    "Zettelkasten/Denoising Autoencoder.md",
+    "Zettelkasten/Contractive Autoencoder.md",
+    "Zettelkasten/k-Sparse Autoencoder.md",
+    "Zettelkasten/Jensen-Shannon 散度.md",
+    "Home.md",
+    "Zettelkasten/高斯分布.md",
+    "Zettelkasten/Gaussian Process.md",
+    "Zettelkasten/Gaussian Process Regression.md",
+    "Zettelkasten/Sparse Autoencoder.md",
+    "Zettelkasten/Score function.md",
+    "Zettelkasten/Variational Autoencoder.md",
+    "Zettelkasten/Wasserstein 距离.md",
+    "Zettelkasten/Wasserstein GAN.md",
+    "Zettelkasten/Yule-Walker 方法.md",
+    "Zettelkasten/Generative adversarial Network.md",
+    "Zettelkasten/Importance Sampling.md",
+    "Zettelkasten/Inverse Function Theorem.md",
+    "Zettelkasten/K-Lipschitz.md",
+    "Zettelkasten/拉格朗日方法.md",
+    "Literature/@dingGenerativeAICritical.md",
+    "Literature/@DingWenhaoThesis.md",
+    "Zettelkasten/Diffusion.md",
+    "Zettelkasten/Normalizing Flows.md",
+    "Zettelkasten/Real NVP.md",
+    "Fig/Normalizing Flows.png",
+    "Zettelkasten/Change of Variable Theorem.md",
+    "Tools.md",
+    "Fig/Variational Autoencoder.png",
+    "Fig/Denoising Autoencoder.png",
+    "Fig/Autoencoder.png",
+    "Fig/@dingMultimodalSafetyCriticalScenarios2020.png",
+    "Fig/Pasted image 20241202195618.png",
+    "Fig/Pasted image 20241202195546.png",
+    "Fig/Pasted image 20241202194934.png",
+    "Fig/Pasted image 20241202191457.png",
+    "Fig/TUV 防晕动软件开发.png",
+    "认知",
+    "Temp",
+    "Research",
+    "Reference Notes",
+    "Project/2024-2025",
+    "Public Knowledge",
+    "Template",
+    "Zettelkasten",
+    "Fig",
+    "Literature",
+    "Literature Notes/LMDrive_Closed-Loop End-to-End Driving with Large Language Models.canvas",
+    "Permanent Notes/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

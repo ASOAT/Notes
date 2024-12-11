@@ -1,0 +1,12 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R,Times New Roman",
+  "theme": "moonstone",
+  "baseFontSize": 19,
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版 R"
+}

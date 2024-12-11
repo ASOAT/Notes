@@ -1,0 +1,28 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Fig",
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "readableLineLength": true,
+  "userIgnoreFilters": [
+    "Pics/"
+  ],
+  "showIndentGuide": false,
+  "showRibbon": true,
+  "strictLineBreaks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "foldHeading": true,
+  "propertiesInDocument": "visible",
+  "rightToLeft": false,
+  "autoConvertHtml": false
+}

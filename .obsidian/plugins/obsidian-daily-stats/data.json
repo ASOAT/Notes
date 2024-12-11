@@ -1,0 +1,64 @@
+{
+  "dayCounts": {
+    "2024/11/10": 809,
+    "2024/11/11": 1124
+  },
+  "todaysWordCount": {
+    "Literature/@zhaoAcceleratedEvaluationAutomated.md": {
+      "initial": 18,
+      "current": 18
+    },
+    "Template/Template notes.md": {
+      "initial": 8,
+      "current": 8
+    },
+    "Zettelkasten/Change of Variable Theorem.md": {
+      "initial": 10,
+      "current": 225
+    },
+    "Tools.md": {
+      "initial": 39,
+      "current": 78
+    },
+    "Zettelkasten/Normalizing Flows.md": {
+      "initial": 8,
+      "current": 513
+    },
+    "Home.md": {
+      "initial": 357,
+      "current": 357
+    },
+    "Zettelkasten/Inverse Function Theorem.md": {
+      "initial": 9,
+      "current": 38
+    },
+    "Zettelkasten/Real NVP.md": {
+      "initial": 8,
+      "current": 16
+    },
+    "Zettelkasten/Diffusion.md": {
+      "initial": 7,
+      "current": 76
+    },
+    "Zettelkasten/Score function.md": {
+      "initial": 8,
+      "current": 129
+    },
+    "Literature/@DingWenhaoThesis.md": {
+      "initial": 11,
+      "current": 12
+    },
+    "Zettelkasten/Gaussian Process Regression.md": {
+      "initial": 9,
+      "current": 11
+    },
+    "Zettelkasten/Gaussian Process.md": {
+      "initial": 8,
+      "current": 12
+    },
+    "Zettelkasten/高斯分布.md": {
+      "initial": 10,
+      "current": 141
+    }
+  }
+}
