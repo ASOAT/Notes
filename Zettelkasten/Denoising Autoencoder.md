@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: 
-aligns: DAE，去噪自动编码器
+aliases: DAE，去噪自动编码器
 # Denoising Autoencoder
 避免过拟合和提高鲁棒性
 

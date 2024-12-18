@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: 
-aligns: 
+aliases: 
 # K-Lipschitz
 用来描述函数的平滑性或“增长速度”。
 

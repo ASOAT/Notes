@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: 
-aligns: Kullback-Leibler Divergence
+aliases: Kullback-Leibler Divergence
 # Kullback-Leibler散度
 衡量两个概率分布之间的“差异”或“距离”。
 直观上，$D_{KL}(P||Q)$表示的使一个分布$Q(x)$（实际使用的分布）相对于另一个分布$P(x)$（真实分布）的信息损失，是一种有方向性的差异（即$D_{KL}(P||Q) \neq D_{KL}(Q||P)$）。

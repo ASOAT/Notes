@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: [[Generative Model]]
-aligns: GAN, 对抗生成网络
+aliases: GAN, 对抗生成网络
 # Generative adversarial Network
 GAN由两个模型组成：
 - 判别器D估计给定样本来自真实数据集的概率。它作为一个分类器，并经过优化以区分假样本和真实样本。

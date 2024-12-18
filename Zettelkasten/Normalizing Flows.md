@@ -1,7 +1,7 @@
 20241211
 Status: #methods
 Tags: 
-aligns: 
+aliases: 
 # Normalizing Flows
 由于需要在深度学习模型中运行反向传播，因此我们希望后验概率$p(\textbf{z}|\textbf{x})$可以简单有效地计算出导数。Normalizing Flows模型通过一连串的可逆变换函数将一个简单的分布转变成一个复杂的分布，根据变量替换定理反复用新的变量来替代，最终得到目标变量的概率分布。
 

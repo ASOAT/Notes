@@ -1,7 +1,7 @@
 20241211
 Status: #methods
 Tags: 
-aligns: 分数函数；score-based model
+aliases: 分数函数；score-based model
 # Score function
 分数函数是对对数概率密度函数$\log p_\theta(x)$的梯度：$$s_\theta(x) = \nabla_x \log p_\theta(x)$$表示分布$p_\theta(x)$在点$x$上的梯度方向，告诉我们应该如何调整$x$以增加其概率密度。
 

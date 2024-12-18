@@ -1,8 +1,15 @@
 {{date:YYYYMMDD}}
 Status: #methods
 Tags: 
-aligns: 
+aliases: 
 # {{title}}
+
+
+
+
+
+
+
 
 
 

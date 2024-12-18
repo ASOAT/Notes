@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: 
-aligns: 
+aliases: 
 # Autoencoder
 以无监督的方式学习一个恒等函数，以重建原始输入，并在这个过程中压缩数据，从而发现一个更有效和压缩的表示。
 

@@ -1,7 +1,7 @@
 20241210
 Status: #methods
 Tags: 
-aligns: 
+aliases: 
 # Park 变换
 将电流从两相静止坐标系转换到两相旋转坐标系
 $$C_{\text{Park}} = C_{\alpha\beta \rightarrow dq} =

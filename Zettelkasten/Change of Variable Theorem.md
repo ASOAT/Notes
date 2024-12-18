@@ -1,7 +1,7 @@
 20241211
 Status: #methods
 Tags: 
-aligns: 变量替换定理
+aliases: 变量替换定理
 # Change of Variable Theorem
 推断变量替换后的概率密度函数$p(x)$。
 

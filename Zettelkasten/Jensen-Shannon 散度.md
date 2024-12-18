@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: 
-aligns: Jensen-Shannon Divergence, JSD
+aliases: Jensen-Shannon Divergence, JSD
 # Jensen-Shannon 散度
 衡量两个概率分布之间相似性的一种度量，是KL散度的一种对称化和归一化的版本。
 

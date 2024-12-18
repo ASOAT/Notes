@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: [[最优运输问题]]
-aligns: Earth Mover's Distance
+aliases: Earth Mover's Distance
 # Wasserstein 距离
 可以被直观地理解为将一堆土从一个概率分布重新分布到另一个概率分布所需的最小搬运成本。
 

@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: 
-aligns: 收缩自动编码器
+aliases: 收缩自动编码器
 # Contractive Autoencoder
 与系数自动编码器类似，鼓励学习到的表示停留在收缩空间中，以获得更好的鲁棒性。
 

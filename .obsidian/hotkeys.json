@@ -59,5 +59,14 @@
       ],
       "key": "R"
     }
+  ],
+  "editor:delete-paragraph": [],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }

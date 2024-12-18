@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Zettelkasten  ",
@@ -18,21 +18,7 @@
       "query": "path:Literature  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:Template  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:认知  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
+        "rgb": 8902236
       }
     }
   ],
@@ -42,10 +28,10 @@
   "nodeSizeMultiplier": 1.14635416666667,
   "lineSizeMultiplier": 1.80989583333333,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.630208333333333,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1166089157945738,
-  "close": false
+  "scale": 0.04231590268975973,
+  "close": true
 }

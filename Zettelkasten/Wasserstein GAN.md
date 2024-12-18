@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: 
-aligns: 
+aliases: 
 # Wasserstein GAN
 在原始的GAN中，判别器输出的时数据为真实数据的概率，而在WGAN中，判别器（Critic）的输出变为一个分数，表示生成数据和真实数据之间的差异。
 

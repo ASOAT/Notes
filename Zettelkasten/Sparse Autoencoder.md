@@ -1,7 +1,7 @@
 20241206
 Status: #methods
 Tags: 
-aligns: 
+aliases: 
 # Sparse Autoencoder
 添加稀疏性正则化项，限制潜在空间中激活的神经元数量，从而学习到更有意义的特征
 
