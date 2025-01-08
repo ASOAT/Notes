@@ -4,22 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a850507b3d6ba3e7",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "78bc0749e732e014",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "30570c91a0bd62a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/@LiMianXiangZiDongJiaShiXuNiCeShiDeChangJingCheLiangXingWeiYuYunDongGuiHuaFangFaYanJiu2024.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@LiMianXiangZiDongJiaShiXuNiCeShiDeChangJingCheLiangXingWeiYuYunDongGuiHuaFangFaYanJiu2024"
+              "title": "Home"
             }
           }
         ]
@@ -35,6 +45,16 @@
         "id": "946496e5a191e495",
         "type": "tabs",
         "children": [
+          {
+            "id": "45bbf1f7bd4d356e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
           {
             "id": "e70f2d6d0e5d808d",
             "type": "leaf",
@@ -86,12 +106,22 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "75874fe8f837514f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 635.5
   },
   "right": {
     "id": "dee5626af549be37",
@@ -107,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Motion Aftereffect.md"
               },
               "icon": "lucide-list",
-              "title": "Home 的大纲"
+              "title": "Motion Aftereffect 的大纲"
             }
           },
           {
@@ -133,8 +163,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
-                "collapseAll": false,
+                "file": "Motion Aftereffect.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -143,11 +173,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Home 的反向链接列表"
+              "title": "Motion Aftereffect 的反向链接列表"
             }
           },
           {
-            "id": "91f7ff72f712903c",
+            "id": "9be98db924326fe1",
             "type": "leaf",
             "state": {
               "type": "stats-tracker",
@@ -156,8 +186,7 @@
               "title": "Daily Stats"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,59 +202,61 @@
       "command-palette:打开命令面板": false,
       "graph:查看关系图谱": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "random-note:开始漫游笔记": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "78bc0749e732e014",
   "lastOpenFiles": [
     "Home.md",
-    "Literature/@LiMianXiangZiDongJiaShiXuNiCeShiDeChangJingCheLiangXingWeiYuYunDongGuiHuaFangFaYanJiu2024.md",
-    "README.md",
-    "Todo List.md",
-    "Literature/@dingSurveySafetyCriticalDriving2023.md",
-    "Literature/@wangEfficientGenerationSafetyCritical2024.md",
-    "Literature/自动驾驶测试场景浓缩-孙剑-OnSite.md",
-    "Literature/Comfort talk - Bos.md",
-    "Literature/@xuDiffSceneDiffusionBasedSafetyCritical2023.md",
-    "Literature/@dingRealGenRetrievalAugmented2024.md",
-    "Tools.md",
-    "Literature/@dingGenerativeAICritical.md",
-    "支线任务.md",
-    "Zettelkasten/Semantically Adversarial Generation.md",
-    "Zettelkasten/Temporal AutoEncoder.md",
-    "Zettelkasten/Variational Autoencoder.md",
-    "Zettelkasten/Autoencoder.md",
-    "IDEAs.md",
-    "认知/如何记文献笔记.md",
-    "Fig/Variational Autoencoder-1.png",
-    "Zettelkasten/GRU.md",
-    "Fig/GRU.png",
-    "Literature/@zhangMultiVehicleInteractionScenarios2020.md",
-    "Zettelkasten/周期核.md",
-    "Zettelkasten/永磁同步电机矢量控制.md",
-    "Zettelkasten/线性核.md",
-    "Zettelkasten/似然.md",
-    "Zettelkasten/熵&交叉熵.md",
-    "Fig/LSTM-2.png",
-    "Fig/LSTM-1.png",
-    "Fig/RNN-2.png",
-    "Fig/RNN.png",
-    "Fig/Pasted image 20241212205031.png",
-    "Fig/tanh激活函数.png",
-    "Fig/LSTM-1.png",
-    "Fig/LSTM.png",
-    "认知",
-    "Temp",
-    "Research",
-    "Reference Notes",
-    "Project/2024-2025",
-    "Public Knowledge",
-    "Template",
-    "Zettelkasten",
+    "Difference Threshold.md",
+    "00Project/2025/TUV莱茵防晕动APP+客观指标/20250108 Psychophysical用于动效评估初步想法.md",
+    "02Literature/@billVisualMotionPerception2022.md",
+    "Fechner 定律.md",
+    "Fig/Fechner 定律.png",
+    "Weber公式.md",
+    "Fig/Weber公式-1.png",
+    "02Literature/@gescheiderPsychophysicsFundamentals2016.md",
+    "Fig/Weber公式.png",
+    "Fig/Difference Threshold.png",
     "Fig",
-    "Literature",
+    "02Literature/@sunCornerCaseGeneration2021.md",
+    "02Literature/@dingSurveySafetyCriticalDriving2023.md",
+    "02Literature/@LiMianXiangZiDongJiaShiXuNiCeShiDeChangJingCheLiangXingWeiYuYunDongGuiHuaFangFaYanJiu2024.md",
+    "02Literature/@mullinsAutomatedGenerationDiverse2017.md",
+    "02Literature/@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024.md",
+    "02Literature/Comfort talk - Bos.md",
+    "02Literature/自动驾驶测试场景浓缩-孙剑-OnSite.md",
+    "01Zettelkasten/Autoencoder.md",
+    "01Zettelkasten/Adaptive Stress Testing.md",
+    "01Zettelkasten/AST Application in Autonomous Vehicles.md",
+    "01Zettelkasten/最小二乘估计.md",
+    "01Zettelkasten/自相关函数.md",
+    "01Zettelkasten/自动驾驶道德挑战.md",
+    "01Zettelkasten/周期核.md",
+    "01Zettelkasten/晕动视觉缓解方案-圆点.md",
+    "01Zettelkasten/永磁同步电机矢量控制.md",
+    "01Zettelkasten/心电信号处理.md",
+    "01Zettelkasten/线性核.md",
+    "01Zettelkasten/视觉动效提示缓解晕动方案.md",
+    "00Project/2025",
+    "Project/TUV莱茵防晕动APP+客观指标/第一阶段工作：苹果方案复现",
+    "00Project/2025/TUV莱茵防晕动APP+客观指标",
+    "00Project/2025/本科毕设/开题",
+    "00Project/2025/本科毕设",
+    "00Project",
+    "05Fig/皮电信号处理.png",
+    "本科毕设开题思考.canvas",
+    "Fig/Banner-Homepage.jpg",
+    "Fig/Snipaste_2024-12-26_12-18-11.jpg",
+    "Fig/自动驾驶测试挑战场景生成.png",
+    "05Fig/@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024.png",
+    "05Fig/自动驾驶测试调研.png",
+    "调研",
+    "03认知",
+    "Temp",
     "Literature Notes/LMDrive_Closed-Loop End-to-End Driving with Large Language Models.canvas",
-    "Permanent Notes/未命名.canvas",
-    "未命名.canvas"
+    "Permanent Notes/未命名.canvas"
   ]
 }

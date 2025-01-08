@@ -41,7 +41,7 @@ const currentYear = new Date().getFullYear();
 
 const option = {
     backgroundColor: "rgba(0, 0, 0, 0)",
-    width: 700,
+    width: 650,
     height: 250,
     tooltip: {
         position: "top",
@@ -65,19 +65,19 @@ const option = {
         },
         pieces: [
             { gte: 0, lte: 0},
-            { gt: 0, lte: 500 },
-            { gt: 500, lte: 1000 },
+            { gt: 0, lte: 1000 },
             { gt: 1000, lte: 2000 },
             { gt: 2000, lte: 3000 },
-            { gt: 3000 },
+            { gt: 3000, lte: 5000 },
+            { gt: 5000 },
         ],
         color: [
-            "#253B43",
-            "#728C76",
-			"#809969",
-            "#B4C881",
-            "#F3DBC5",
-            "#D56D3B",
+            "#063b07",
+            "#145716",
+			"#2f8232",
+            "#58b05b",
+            "#8ccf8f",
+            "#c0ebc2",
         ],
         calculable: true,
     },

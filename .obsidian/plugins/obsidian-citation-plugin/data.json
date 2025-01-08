@@ -1,7 +1,7 @@
 {
   "citationExportFormat": "csl-json",
   "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "Literature",
+  "literatureNoteFolder": "02Literature",
   "literatureNoteContentTemplate": "Authors: {{authorString}}\nYear: {{year}}\nStatus: #literature\nTags: \n# {{title}}\n\n\n\n\n\n\n\n\n\n\n\n\n---\n# Extension Papers\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",

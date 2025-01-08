@@ -5,33 +5,68 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Zettelkasten  ",
+      "query": "tag:#调研  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:Literature  ",
+      "query": "tag:#认知  ",
       "color": {
         "a": 1,
-        "rgb": 8902236
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#literature  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#methods  ",
+      "color": {
+        "a": 1,
+        "rgb": 6069206
+      }
+    },
+    {
+      "query": "tag:#idea  ",
+      "color": {
+        "a": 1,
+        "rgb": 16772208
+      }
+    },
+    {
+      "query": "tag:#research  ",
+      "color": {
+        "a": 1,
+        "rgb": 9264342
+      }
+    },
+    {
+      "query": "path:00Project/2025  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.14635416666667,
-  "lineSizeMultiplier": 1.80989583333333,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.04427083333333,
+  "lineSizeMultiplier": 1.171875,
   "collapse-forces": false,
-  "centerStrength": 0.630208333333333,
+  "centerStrength": 0.6875,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.04231590268975973,
-  "close": true
+  "linkDistance": 272,
+  "scale": 0.11660891579457791,
+  "close": false
 }

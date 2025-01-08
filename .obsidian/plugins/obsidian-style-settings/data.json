@@ -38,5 +38,9 @@
   "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-rosewater",
   "anuppuccin-theme-settings@@anp-h3-divider": false,
   "anuppuccin-theme-settings@@anp-h2-divider": false,
-  "anuppuccin-theme-settings@@anp-h1-divider": false
+  "anuppuccin-theme-settings@@anp-h1-divider": false,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Appearance-light@@card-layout-open-light": true,
+  "Components@@status-bar-autohide": false,
+  "Editor@@border-focus-mode": false
 }

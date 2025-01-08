@@ -1,17 +1,59 @@
 {
   "dayCounts": {
-    "2024/11/10": 809,
-    "2024/11/11": 1211,
-    "2024/11/12": 2587,
-    "2024/11/13": 849,
-    "2024/11/16": 132,
-    "2024/11/17": 0,
-    "2024/11/18": 222
+    "2024/11/27": 627,
+    "2024/11/29": 1727,
+    "2024/11/31": 6,
+    "2025/0/1": 1501,
+    "2025/0/2": 60,
+    "2025/0/3": 264,
+    "2025/0/5": 439,
+    "2025/0/7": 133,
+    "2025/0/8": 1149
   },
   "todaysWordCount": {
-    "Literature/@LiMianXiangZiDongJiaShiXuNiCeShiDeChangJingCheLiangXingWeiYuYunDongGuiHuaFangFaYanJiu2024.md": {
-      "initial": 37,
-      "current": 259
+    "01Zettelkasten/皮电信号处理.md": {
+      "initial": 1174,
+      "current": 1178
+    },
+    "01Zettelkasten/视觉动效提示缓解晕动方案.md": {
+      "initial": 457,
+      "current": 463
+    },
+    "01Zettelkasten/心电信号处理.md": {
+      "initial": 352,
+      "current": 355
+    },
+    "01Zettelkasten/晕动视觉缓解方案-圆点.md": {
+      "initial": 77,
+      "current": 82
+    },
+    "01Zettelkasten/自相关函数.md": {
+      "initial": 42,
+      "current": 44
+    },
+    "01Zettelkasten/最小二乘估计.md": {
+      "initial": 183,
+      "current": 186
+    },
+    "Difference Threshold.md": {
+      "initial": 8,
+      "current": 200
+    },
+    "Weber公式.md": {
+      "initial": 527,
+      "current": 680
+    },
+    "Fechner‘s Psychophysics.md": {
+      "initial": 9,
+      "current": 152
+    },
+    "Fechner 定律.md": {
+      "initial": 151,
+      "current": 446
+    },
+    "00Project/2025/TUV莱茵防晕动APP+客观指标/20250108 Psychophysical用于动效评估初步想法.md": {
+      "initial": 18,
+      "current": 361
     }
   }
 }
