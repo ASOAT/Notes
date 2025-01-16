@@ -65,11 +65,11 @@ const option = {
         },
         pieces: [
             { gte: 0, lte: 0},
-            { gt: 0, lte: 1000 },
+            { gt: 0, lte: 500 },
+            { gt: 500, lte: 1000 },
             { gt: 1000, lte: 2000 },
             { gt: 2000, lte: 3000 },
-            { gt: 3000, lte: 5000 },
-            { gt: 5000 },
+            { gt: 3000 },
         ],
         color: [
             "#063b07",

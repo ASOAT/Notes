@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a850507b3d6ba3e7",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "78bc0749e732e014",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "30570c91a0bd62a8",
+            "id": "d29f775ed64debab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,11 +118,13 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 635.5
+    "width": 635.5,
+    "collapsed": true
   },
   "right": {
     "id": "dee5626af549be37",
@@ -207,55 +210,55 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "78bc0749e732e014",
+  "active": "d29f775ed64debab",
   "lastOpenFiles": [
+    "01Zettelkasten/Android 自定义View 属性动画.md",
+    "01Zettelkasten/Android 自定义View 绘制顺序.md",
+    "01Zettelkasten/Android 自定义View Canvas几何变换.md",
+    "Fig/Android 自定义View Canvas几何变换.png",
+    "01Zettelkasten/Android 自定义View 文字绘制.md",
+    "01Zettelkasten/Android 自定义View 绘制附加效果.md",
+    "01Zettelkasten/Android 自定义View 获取绘制的Path.md",
+    "Fig/Android 自定义View 获取绘制的Path-1.png",
+    "Fig/Android 自定义View 获取绘制的Path.png",
+    "Fig/Android 自定义View 绘制附加效果.png",
+    "01Zettelkasten/Android 自定义View PathEffect.md",
+    "01Zettelkasten/Android 自定义View.md",
+    "Fig/Pasted image 20250116110250.png",
+    "Fig/Android 自定义View PathEffect-1.png",
+    "Fig/Android 自定义View PathEffect.png",
+    "00Project/2025/TUV莱茵防晕动APP+客观指标/20250114 光流方案.md",
+    "00Project/2025/TUV莱茵防晕动APP+客观指标/20250109 地平线方案.md",
+    "00Project/2025/TUV莱茵防晕动APP+客观指标/20250113 雷霆战机方案.md",
     "Home.md",
-    "Difference Threshold.md",
+    "01Zettelkasten/Android 自定义 View 色彩优化.md",
+    "Fig/Android 自定义 View 色彩优化-1.png",
+    "Fig/Android 自定义 View 色彩优化.png",
+    "01Zettelkasten/Android 自定义 View 线条形状.md",
+    "01Zettelkasten/Android 自定义 View ColorFilter.md",
+    "01Zettelkasten/Android 自定义 View Shader.md",
+    "01Zettelkasten/Android 自定义 View Xfermode.md",
+    "Fig/Android 线条形状-1.png",
+    "02Literature/@kamijiModelingValidationCarsickness2007.md",
+    "01Zettelkasten/Android Camera.md",
+    "01Zettelkasten/MSDV计算代码.md",
+    "00Project/2025/本科毕设/开题/20241227本科毕设开题思考.md",
     "00Project/2025/TUV莱茵防晕动APP+客观指标/20250108 Psychophysical用于动效评估初步想法.md",
-    "02Literature/@billVisualMotionPerception2022.md",
-    "Fechner 定律.md",
-    "Fig/Fechner 定律.png",
-    "Weber公式.md",
-    "Fig/Weber公式-1.png",
-    "02Literature/@gescheiderPsychophysicsFundamentals2016.md",
-    "Fig/Weber公式.png",
-    "Fig/Difference Threshold.png",
-    "Fig",
     "02Literature/@sunCornerCaseGeneration2021.md",
-    "02Literature/@dingSurveySafetyCriticalDriving2023.md",
-    "02Literature/@LiMianXiangZiDongJiaShiXuNiCeShiDeChangJingCheLiangXingWeiYuYunDongGuiHuaFangFaYanJiu2024.md",
-    "02Literature/@mullinsAutomatedGenerationDiverse2017.md",
     "02Literature/@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024.md",
-    "02Literature/Comfort talk - Bos.md",
-    "02Literature/自动驾驶测试场景浓缩-孙剑-OnSite.md",
-    "01Zettelkasten/Autoencoder.md",
-    "01Zettelkasten/Adaptive Stress Testing.md",
-    "01Zettelkasten/AST Application in Autonomous Vehicles.md",
-    "01Zettelkasten/最小二乘估计.md",
-    "01Zettelkasten/自相关函数.md",
-    "01Zettelkasten/自动驾驶道德挑战.md",
-    "01Zettelkasten/周期核.md",
-    "01Zettelkasten/晕动视觉缓解方案-圆点.md",
-    "01Zettelkasten/永磁同步电机矢量控制.md",
-    "01Zettelkasten/心电信号处理.md",
-    "01Zettelkasten/线性核.md",
-    "01Zettelkasten/视觉动效提示缓解晕动方案.md",
+    "02Literature/@dingSurveySafetyCriticalDriving2023.md",
+    "02Literature/@billVisualMotionPerception2022.md",
+    "00Project/2025/本科毕设/寒假预研",
+    "Fig",
     "00Project/2025",
     "Project/TUV莱茵防晕动APP+客观指标/第一阶段工作：苹果方案复现",
     "00Project/2025/TUV莱茵防晕动APP+客观指标",
     "00Project/2025/本科毕设/开题",
     "00Project/2025/本科毕设",
     "00Project",
-    "05Fig/皮电信号处理.png",
     "本科毕设开题思考.canvas",
-    "Fig/Banner-Homepage.jpg",
-    "Fig/Snipaste_2024-12-26_12-18-11.jpg",
-    "Fig/自动驾驶测试挑战场景生成.png",
-    "05Fig/@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024.png",
-    "05Fig/自动驾驶测试调研.png",
     "调研",
     "03认知",
-    "Temp",
     "Literature Notes/LMDrive_Closed-Loop End-to-End Driving with Large Language Models.canvas",
     "Permanent Notes/未命名.canvas"
   ]

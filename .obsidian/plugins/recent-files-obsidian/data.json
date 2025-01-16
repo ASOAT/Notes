@@ -5,40 +5,148 @@
       "path": "Home.md"
     },
     {
-      "basename": "Difference Threshold",
-      "path": "Difference Threshold.md"
+      "basename": "Android 自定义View 属性动画",
+      "path": "01Zettelkasten/Android 自定义View 属性动画.md"
+    },
+    {
+      "basename": "Android 自定义View 绘制顺序",
+      "path": "01Zettelkasten/Android 自定义View 绘制顺序.md"
+    },
+    {
+      "basename": "Android 自定义View Canvas几何变换",
+      "path": "01Zettelkasten/Android 自定义View Canvas几何变换.md"
+    },
+    {
+      "basename": "Android 自定义View 文字绘制",
+      "path": "01Zettelkasten/Android 自定义View 文字绘制.md"
+    },
+    {
+      "basename": "Android 自定义View 绘制附加效果",
+      "path": "01Zettelkasten/Android 自定义View 绘制附加效果.md"
+    },
+    {
+      "basename": "Android 自定义View 获取绘制的Path",
+      "path": "01Zettelkasten/Android 自定义View 获取绘制的Path.md"
+    },
+    {
+      "basename": "Android 自定义View PathEffect",
+      "path": "01Zettelkasten/Android 自定义View PathEffect.md"
+    },
+    {
+      "basename": "20250114 光流方案",
+      "path": "00Project/2025/TUV莱茵防晕动APP+客观指标/20250114 光流方案.md"
+    },
+    {
+      "basename": "20250109 地平线方案",
+      "path": "00Project/2025/TUV莱茵防晕动APP+客观指标/20250109 地平线方案.md"
+    },
+    {
+      "basename": "20250113 雷霆战机方案",
+      "path": "00Project/2025/TUV莱茵防晕动APP+客观指标/20250113 雷霆战机方案.md"
+    },
+    {
+      "basename": "Android 自定义 View 色彩优化",
+      "path": "01Zettelkasten/Android 自定义 View 色彩优化.md"
+    },
+    {
+      "basename": "Android 自定义 View 线条形状",
+      "path": "01Zettelkasten/Android 自定义 View 线条形状.md"
+    },
+    {
+      "basename": "Android 自定义 View ColorFilter",
+      "path": "01Zettelkasten/Android 自定义 View ColorFilter.md"
+    },
+    {
+      "basename": "Android 自定义 View Shader",
+      "path": "01Zettelkasten/Android 自定义 View Shader.md"
+    },
+    {
+      "basename": "Android 自定义 View Xfermode",
+      "path": "01Zettelkasten/Android 自定义 View Xfermode.md"
+    },
+    {
+      "basename": "@kamijiModelingValidationCarsickness2007",
+      "path": "02Literature/@kamijiModelingValidationCarsickness2007.md"
+    },
+    {
+      "basename": "Android Camera",
+      "path": "01Zettelkasten/Android Camera.md"
+    },
+    {
+      "basename": "MSDV计算代码",
+      "path": "01Zettelkasten/MSDV计算代码.md"
+    },
+    {
+      "basename": "20241227本科毕设开题思考",
+      "path": "00Project/2025/本科毕设/开题/20241227本科毕设开题思考.md"
     },
     {
       "basename": "20250108 Psychophysical用于动效评估初步想法",
       "path": "00Project/2025/TUV莱茵防晕动APP+客观指标/20250108 Psychophysical用于动效评估初步想法.md"
     },
     {
-      "basename": "@billVisualMotionPerception2022",
-      "path": "02Literature/@billVisualMotionPerception2022.md"
-    },
-    {
-      "basename": "Fechner 定律",
-      "path": "Fechner 定律.md"
-    },
-    {
-      "basename": "Weber公式",
-      "path": "Weber公式.md"
-    },
-    {
-      "basename": "@gescheiderPsychophysicsFundamentals2016",
-      "path": "02Literature/@gescheiderPsychophysicsFundamentals2016.md"
-    },
-    {
       "basename": "@sunCornerCaseGeneration2021",
       "path": "02Literature/@sunCornerCaseGeneration2021.md"
+    },
+    {
+      "basename": "@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024",
+      "path": "02Literature/@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024.md"
     },
     {
       "basename": "@dingSurveySafetyCriticalDriving2023",
       "path": "02Literature/@dingSurveySafetyCriticalDriving2023.md"
     },
     {
-      "basename": "@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024",
-      "path": "02Literature/@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024.md"
+      "basename": "如何记文献笔记",
+      "path": "03认知/如何记文献笔记.md"
+    },
+    {
+      "basename": "写作即思考",
+      "path": "03认知/写作即思考.md"
+    },
+    {
+      "basename": "关于完成一个话题，我所需要的",
+      "path": "03认知/关于完成一个话题，我所需要的.md"
+    },
+    {
+      "basename": "笔记分类",
+      "path": "03认知/笔记分类.md"
+    },
+    {
+      "basename": "视觉动效提示缓解晕动方案",
+      "path": "01Zettelkasten/视觉动效提示缓解晕动方案.md"
+    },
+    {
+      "basename": "视觉动效幅值映射",
+      "path": "01Zettelkasten/视觉动效幅值映射.md"
+    },
+    {
+      "basename": "Absolute Sensitivity",
+      "path": "01Zettelkasten/Absolute Sensitivity.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "Tools.md"
+    },
+    {
+      "basename": "Theory of Signal Detection",
+      "path": "01Zettelkasten/Theory of Signal Detection.md"
+    },
+    {
+      "basename": "Fechner 定律",
+      "path": "01Zettelkasten/Fechner 定律.md"
+    },
+    {
+      "basename": "Difference Threshold",
+      "path": "01Zettelkasten/Difference Threshold.md"
+    },
+    {
+      "basename": "Weber公式",
+      "path": "01Zettelkasten/Weber公式.md"
+    },
+    {
+      "basename": "@gescheiderPsychophysicsFundamentals2016",
+      "path": "02Literature/@gescheiderPsychophysicsFundamentals2016.md"
     },
     {
       "basename": "Autoencoder",
@@ -81,10 +189,6 @@
       "path": "01Zettelkasten/线性核.md"
     },
     {
-      "basename": "视觉动效提示缓解晕动方案",
-      "path": "01Zettelkasten/视觉动效提示缓解晕动方案.md"
-    },
-    {
       "basename": "皮电信号处理",
       "path": "01Zettelkasten/皮电信号处理.md"
     },
@@ -95,110 +199,6 @@
     {
       "basename": "高斯核",
       "path": "01Zettelkasten/高斯核.md"
-    },
-    {
-      "basename": "多项式核",
-      "path": "01Zettelkasten/多项式核.md"
-    },
-    {
-      "basename": "Yule-Walker 方法",
-      "path": "01Zettelkasten/Yule-Walker 方法.md"
-    },
-    {
-      "basename": "Wasserstein GAN",
-      "path": "01Zettelkasten/Wasserstein GAN.md"
-    },
-    {
-      "basename": "Motion Aftereffect",
-      "path": "Motion Aftereffect.md"
-    },
-    {
-      "basename": "pytorch节省内存",
-      "path": "pytorch节省内存.md"
-    },
-    {
-      "basename": "20241227本科毕设开题思考",
-      "path": "00Project/2025/本科毕设/开题/20241227本科毕设开题思考.md"
-    },
-    {
-      "basename": "Kullback-Leibler 散度",
-      "path": "01Zettelkasten/Kullback-Leibler 散度.md"
-    },
-    {
-      "basename": "Kernel Function",
-      "path": "01Zettelkasten/Kernel Function.md"
-    },
-    {
-      "basename": "k-Sparse Autoencoder",
-      "path": "01Zettelkasten/k-Sparse Autoencoder.md"
-    },
-    {
-      "basename": "Denoising Autoencoder",
-      "path": "01Zettelkasten/Denoising Autoencoder.md"
-    },
-    {
-      "basename": "Contractive Autoencoder",
-      "path": "01Zettelkasten/Contractive Autoencoder.md"
-    },
-    {
-      "basename": "Change of Variable Theorem",
-      "path": "01Zettelkasten/Change of Variable Theorem.md"
-    },
-    {
-      "basename": "Burg方法",
-      "path": "01Zettelkasten/Burg方法.md"
-    },
-    {
-      "basename": "高斯分布",
-      "path": "01Zettelkasten/高斯分布.md"
-    },
-    {
-      "basename": "如何记文献笔记",
-      "path": "03认知/如何记文献笔记.md"
-    },
-    {
-      "basename": "写作即思考",
-      "path": "03认知/写作即思考.md"
-    },
-    {
-      "basename": "关于完成一个话题，我所需要的",
-      "path": "03认知/关于完成一个话题，我所需要的.md"
-    },
-    {
-      "basename": "笔记分类",
-      "path": "03认知/笔记分类.md"
-    },
-    {
-      "basename": "Marr's Theory of Visual Perception",
-      "path": "01Zettelkasten/Marr's Theory of Visual Perception.md"
-    },
-    {
-      "basename": "Tools",
-      "path": "Tools.md"
-    },
-    {
-      "basename": "LSTM",
-      "path": "01Zettelkasten/LSTM.md"
-    },
-    {
-      "basename": "GRU",
-      "path": "01Zettelkasten/GRU.md"
-    },
-    {
-      "basename": "Importance Sampling",
-      "path": "01Zettelkasten/Importance Sampling.md"
-    },
-    {
-      "basename": "熵&交叉熵",
-      "path": "01Zettelkasten/熵&交叉熵.md"
-    },
-    {
-      "basename": "Park 变换",
-      "path": "01Zettelkasten/Park 变换.md"
-    },
-    {
-      "basename": "Gaussian Process Regression",
-      "path": "01Zettelkasten/Gaussian Process Regression.md"
     }
   ],
   "omittedPaths": [],

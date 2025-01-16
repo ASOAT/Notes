@@ -1069,6 +1069,8 @@ Amp
 Amplitude
 AVerage
 Aftereffect
+Absolute
+Alpha
 Racing
 Rkui
 Rz
@@ -1249,7 +1251,6 @@ RRb
 RRI
 RMg
 Rawlings
-Round
 RTOCP
 Related
 Reference
@@ -1982,6 +1983,7 @@ Rise
 RMSSD
 Recurrent
 Relax
+RadialGradient
 Car
 Contents
 Cs
@@ -2926,6 +2928,14 @@ ChatGPT
 Chaowei
 Controllable
 Cherian
+Color
+Coding
+ComposeShader
+ColorFilter
+ColorMatrixColorFilter
+CornerPathEffect
+ComposePathEffect
+Canvas
 Date
 Description
 Dp
@@ -4481,6 +4491,8 @@ Deacy
 Decay
 Drugowitsch
 Differential
+DiscretePathEffect
+DashPathEffect
 cssclasses
 cards
 ch
@@ -5332,6 +5344,8 @@ circ
 cBz
 challenging
 conductance
+canvas
+carsickness
 tags
 tU
 tz
@@ -9054,6 +9068,8 @@ Tesla
 Transfomer
 Tonic
 Threshold
+Takahiro
+Transfermode
 List
 Length
 Lc
@@ -9963,6 +9979,8 @@ Liyiming
 Leveraging
 Learn
 Latency
+LinearGradient
+LightingColorFilter
 PDF
 PG
 Pyp
@@ -10873,6 +10891,10 @@ Poincar
 Perception
 Psychophysical
 Psychophysics
+PorterDuffColorFilter
+PorterDuff
+PathEffect
+PathDashPathEffect
 obj
 oqx
 oP
@@ -12588,6 +12610,7 @@ FzVq
 FSD
 Failure
 Frequency
+Fechner
 stream
 sphD
 sg
@@ -13418,6 +13441,14 @@ setting
 style
 stats
 siK
+setAntiAlias
+setStyle
+setStokeWidth
+setStrokeCap
+setStrokeJoin
+setStrokeMiter
+setShadowLayer
+setMaskFilter
 ys
 yw
 yM
@@ -16839,6 +16870,7 @@ iFQ
 iHW
 iQQ
 intensity
+ichi
 eU
 endstream
 endobj
@@ -18412,6 +18444,7 @@ NVIDA
 NSCR
 Noise
 Near
+Norimasa
 nEf
 nU
 nX
@@ -25192,6 +25225,8 @@ Encoder
 Efficient
 Explore
 Event
+Eye
+EmbossMaskFilter
 XK
 XTTA
 XW
@@ -26088,6 +26123,7 @@ Xzi
 XAQ
 Xincheng
 Xiao
+Xfermode
 QS
 QN
 QA
@@ -30152,6 +30188,7 @@ Yulong
 Yew
 Yap
 YouTube
+Yoshinori
 qr
 qz
 qw
@@ -31870,6 +31907,7 @@ mpf
 mathbf
 mvVd
 mixture
+miter
 Hn
 Hg
 HDjQ
@@ -34481,6 +34519,7 @@ OuT
 OQd
 Overcoming
 Onset
+Option
 WD
 WFp
 Wp
@@ -37614,6 +37653,7 @@ jdK
 jTHQ
 jda
 jQPX
+jnd
 Sl
 Sf
 Si
@@ -38482,6 +38522,12 @@ Summary
 SDNN
 Samuel
 Sensitivity
+Spirit
+Sheet
+Shun
+Shader
+SweepGradient
+SumPathEffect
 zMX
 zS
 zkR
@@ -41093,6 +41139,10 @@ Byron
 Boots
 Base
 Bill
+BitmapShader
+Bitmap
+Blending
+BlurMaskFilter
 ZT
 Ze
 ZNW
@@ -43249,6 +43299,7 @@ Kortorovich
 Kernel
 KfO
 Kevin
+Kurata
 bb
 bp
 bS
@@ -45972,6 +46023,7 @@ aware
 aligned
 aliases
 allocation
+argb
 ÖL
 ÖE
 Ös

@@ -1,7 +1,9 @@
 20250108
 Status: #methods
 Tags: [[Psychophysical]]
-aliases: 
+aliases: 费希纳定律
+
+感知的强度与物理刺激强度的对数成比例。
 # Fechner 定律
 Fechner 尝试推导出一个数学方程，用来描述物理事件与意识体验之间的关系，并提出一个假设：心理强度的算术级数可能对应于物理能量的几何级数。这与 Weber 定律完全相符。
 
