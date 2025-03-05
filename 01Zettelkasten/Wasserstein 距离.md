@@ -1,5 +1,5 @@
 20241206
-Status: #methods
+Status: #public-knowledge
 Tags: [[最优运输问题]]
 aliases: Earth Mover's Distance
 # Wasserstein 距离

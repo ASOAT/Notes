@@ -1,8 +1,8 @@
-{{date:YYYYMMDD}}
-Status: #methods
+20250207
+Status: #public-knowledge
 Tags: 
 aliases: 
-# {{title}}
+# Trasformer
 
 
 

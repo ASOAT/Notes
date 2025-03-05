@@ -1,5 +1,5 @@
 20241213
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: Gated Recurrent Unit
 # GRU

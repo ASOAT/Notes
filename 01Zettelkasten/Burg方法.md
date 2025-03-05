@@ -1,5 +1,5 @@
 20241202
-Status: #methods
+Status: #public-knowledge
 Tags: 
 # Burg方法
 Burg方法的核心在于使用反射系数迭代更新参数：

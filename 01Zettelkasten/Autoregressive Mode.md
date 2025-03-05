@@ -1,5 +1,5 @@
 20241202
-Status: #methods
+Status: #public-knowledge
 Tags: 
 # Autoregressive Mode
 自回归模型常用于时序分析，一般形式为：

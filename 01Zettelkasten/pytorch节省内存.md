@@ -1,5 +1,5 @@
 20250107
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: 
 # pytorch节省内存

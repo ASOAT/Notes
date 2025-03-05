@@ -1,5 +1,5 @@
 20250109
-Status: #methods
+Status: #public-knowledge
 Tags: [[Psychophysical]]
 aliases: 
 # Theory of Signal Detection

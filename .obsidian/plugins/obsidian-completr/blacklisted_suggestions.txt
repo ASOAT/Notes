@@ -1,3 +1,10 @@
 Round
 Path
 PathEffect
+TL;DR
+Note
+Summary
+Abstract
+Info
+To-Do
+Tip

@@ -1,5 +1,5 @@
 20241206
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: DAE，去噪自动编码器
 # Denoising Autoencoder

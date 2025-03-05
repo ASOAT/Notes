@@ -1,5 +1,5 @@
 20250103
-Status: #methods
+Status: #public-knowledge
 Tags: [[Visual Perception]]
 aliases: 
 # Marr's Theory of Visual Perception

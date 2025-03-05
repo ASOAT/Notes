@@ -1,5 +1,5 @@
 20250113
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: 
 # MSDV计算代码

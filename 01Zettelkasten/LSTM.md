@@ -1,5 +1,5 @@
 20241212
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: 
 # LSTM

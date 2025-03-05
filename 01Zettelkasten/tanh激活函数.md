@@ -1,5 +1,5 @@
 20241212
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: 双曲正切激活函数
 # tanh激活函数

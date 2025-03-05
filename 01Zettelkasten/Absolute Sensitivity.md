@@ -1,5 +1,5 @@
 20250109
-Status: #methods
+Status: #public-knowledge
 Tags: [[Psychophysical]]
 aliases: 
 # Absolute Sensitivity

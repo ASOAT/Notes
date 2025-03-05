@@ -1,5 +1,5 @@
 20250116
-Status: #methods
+Status: #public-knowledge
 Tags: [[Android 自定义View]]
 aliases: 
 # Android 自定义View 属性动画

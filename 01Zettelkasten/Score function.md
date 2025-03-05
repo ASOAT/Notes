@@ -1,5 +1,5 @@
 20241211
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: 分数函数；score-based model
 # Score function

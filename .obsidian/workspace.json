@@ -11,29 +11,27 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "d29f775ed64debab",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "04ZJU/本科毕设/决策算法复现/20250305 文献阅读.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "20250305 文献阅读"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +60,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -77,7 +76,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -102,7 +101,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -118,13 +119,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 635.5,
-    "collapsed": true
+    "width": 493.5
   },
   "right": {
     "id": "dee5626af549be37",
@@ -210,55 +209,54 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d29f775ed64debab",
+  "active": "45bbf1f7bd4d356e",
   "lastOpenFiles": [
-    "01Zettelkasten/Android 自定义View 属性动画.md",
-    "01Zettelkasten/Android 自定义View 绘制顺序.md",
-    "01Zettelkasten/Android 自定义View Canvas几何变换.md",
-    "Fig/Android 自定义View Canvas几何变换.png",
-    "01Zettelkasten/Android 自定义View 文字绘制.md",
-    "01Zettelkasten/Android 自定义View 绘制附加效果.md",
-    "01Zettelkasten/Android 自定义View 获取绘制的Path.md",
-    "Fig/Android 自定义View 获取绘制的Path-1.png",
-    "Fig/Android 自定义View 获取绘制的Path.png",
-    "Fig/Android 自定义View 绘制附加效果.png",
-    "01Zettelkasten/Android 自定义View PathEffect.md",
-    "01Zettelkasten/Android 自定义View.md",
-    "Fig/Pasted image 20250116110250.png",
-    "Fig/Android 自定义View PathEffect-1.png",
-    "Fig/Android 自定义View PathEffect.png",
-    "00Project/2025/TUV莱茵防晕动APP+客观指标/20250114 光流方案.md",
-    "00Project/2025/TUV莱茵防晕动APP+客观指标/20250109 地平线方案.md",
-    "00Project/2025/TUV莱茵防晕动APP+客观指标/20250113 雷霆战机方案.md",
     "Home.md",
-    "01Zettelkasten/Android 自定义 View 色彩优化.md",
-    "Fig/Android 自定义 View 色彩优化-1.png",
-    "Fig/Android 自定义 View 色彩优化.png",
-    "01Zettelkasten/Android 自定义 View 线条形状.md",
-    "01Zettelkasten/Android 自定义 View ColorFilter.md",
-    "01Zettelkasten/Android 自定义 View Shader.md",
-    "01Zettelkasten/Android 自定义 View Xfermode.md",
-    "Fig/Android 线条形状-1.png",
-    "02Literature/@kamijiModelingValidationCarsickness2007.md",
-    "01Zettelkasten/Android Camera.md",
-    "01Zettelkasten/MSDV计算代码.md",
-    "00Project/2025/本科毕设/开题/20241227本科毕设开题思考.md",
-    "00Project/2025/TUV莱茵防晕动APP+客观指标/20250108 Psychophysical用于动效评估初步想法.md",
-    "02Literature/@sunCornerCaseGeneration2021.md",
-    "02Literature/@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024.md",
-    "02Literature/@dingSurveySafetyCriticalDriving2023.md",
-    "02Literature/@billVisualMotionPerception2022.md",
+    "00Project",
+    "04ZJU",
+    "04ZJU/本科毕设/决策算法复现/20250305 文献阅读.md",
+    "04ZJU/本科毕设/决策算法复现/20250304 多车交互博弈Demo.md",
+    "04ZJU/本科毕设/决策算法复现/20250225 CitySim数据集道路可视化.md",
+    "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250303 晕动文献.md",
+    "Tools.md",
+    "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250225 预测MISC.md",
+    "Fig/trajectory_visualization.png",
+    "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250224 数据处理.md",
+    "01Zettelkasten/蒙特卡洛树搜索.md",
+    "Fig/蒙特卡洛树搜索.png",
+    "00Project/2025/本科毕设/Main/20250217 博弈模型.md",
+    "04ZJU/本科毕设/决策算法复现",
+    "00Project/2025/本科毕设/Main/20250221 多智能体十字路口决策 复现.md",
+    "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250221 实车实验.md",
+    "02Literature/@liGameTheoreticModeling2018.md",
+    "02Literature/@karimiRecedingHorizonMotion2020.md",
+    "00Project/2025/本科毕设/多智能体十字路口-复现",
+    "03认知/笔记分类.md",
+    "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250220假人测试.md",
+    "Fig/加油回玉泉.jpg",
+    "Fig/黄龙体育馆测试.jpg",
+    "Fig/玉泉至黄龙体育馆.jpg",
+    "01Zettelkasten/Wit数据读取以及预处理.md",
+    "Wit数据读取/插值.md",
+    "Wit数据读取",
+    "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验",
+    "01Zettelkasten/遗憾最小算法.md",
+    "01Zettelkasten/结构因果模型.md",
+    "04ZJU/本科毕设/开题/技术方案.md",
+    "04ZJU/本科毕设/开题/20241227本科毕设开题思考.md",
+    "04ZJU/本科毕设/开题/0218满血Deepseek.md",
+    "01Zettelkasten/Gaussian Process.md",
+    "01Zettelkasten/高斯分布.md",
+    "00Project/2025/本科毕设/Main",
+    "Fig/IDM模型虚拟队列.png",
+    "Fig/场景定义.png",
+    "00Project/2025/本科毕设/2-3月方向确认&项目初步",
+    "Fig/20250131 Cheng Peng - Motion Comfort Talk-1.png",
+    "Fig/20250131 Cheng Peng - Motion Comfort Talk.png",
+    "Fig/Android 自定义View Canvas几何变换.png",
     "00Project/2025/本科毕设/寒假预研",
     "Fig",
-    "00Project/2025",
-    "Project/TUV莱茵防晕动APP+客观指标/第一阶段工作：苹果方案复现",
-    "00Project/2025/TUV莱茵防晕动APP+客观指标",
-    "00Project/2025/本科毕设/开题",
-    "00Project/2025/本科毕设",
-    "00Project",
     "本科毕设开题思考.canvas",
-    "调研",
-    "03认知",
     "Literature Notes/LMDrive_Closed-Loop End-to-End Driving with Large Language Models.canvas",
     "Permanent Notes/未命名.canvas"
   ]

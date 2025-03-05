@@ -1,5 +1,5 @@
 20241206
-Status: #methods
+Status: #public-knowledge
 Tags: [[Generative Model]]
 aliases: GAN, 对抗生成网络
 # Generative adversarial Network

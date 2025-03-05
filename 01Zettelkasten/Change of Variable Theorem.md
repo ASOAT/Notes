@@ -1,5 +1,5 @@
 20241211
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: 变量替换定理
 # Change of Variable Theorem

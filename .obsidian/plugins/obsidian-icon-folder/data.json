@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFlameKindling",
-      "RiPictureInPictureFill",
-      "FasToiletPaper",
-      "TiCards",
-      "TiTemplate"
+      "😠",
+      "🤗",
+      "LiAngry",
+      "LiUniversity",
+      "LiFlameKindling"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,12 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "00Project": "🛠",
   "01Zettelkasten": "TiCards",
   "02Literature": "FasToiletPaper",
   "03认知": "LiFlameKindling",
-  "04Template": "TiTemplate",
-  "05Fig": "RiPictureInPictureFill"
+  "98Template": "TiTemplate",
+  "99Fig": "RiPictureInPictureFill",
+  "05HMA": "😠",
+  "04ZJU": "LiUniversity",
+  "00Project": "🤗"
 }

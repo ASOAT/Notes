@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#methods  ",
+      "query": "tag:#public-knowledge",
       "color": {
         "a": 1,
         "rgb": 6069206
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 272,
-  "scale": 0.11660891579457365,
+  "scale": 0.08317427835927557,
   "close": true
 }

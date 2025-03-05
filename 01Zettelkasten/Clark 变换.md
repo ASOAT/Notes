@@ -1,5 +1,5 @@
 20241210
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: 
 # Clark 变换

@@ -1,5 +1,5 @@
 20241206
-Status: #methods
+Status: #public-knowledge
 Tags: 
 aliases: Kullback-Leibler Divergence
 # Kullback-Leibler散度

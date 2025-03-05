@@ -1,5 +1,5 @@
 20250114
-Status: #methods
+Status: #public-knowledge
 Tags: [[Android 自定义View]]
 aliases: 
 # Android Camera

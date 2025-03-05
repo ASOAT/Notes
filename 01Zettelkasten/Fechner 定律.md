@@ -1,5 +1,5 @@
 20250108
-Status: #methods
+Status: #public-knowledge
 Tags: [[Psychophysical]]
 aliases: 费希纳定律
 

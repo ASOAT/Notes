@@ -1,5 +1,5 @@
 20241202
-Status: #methods
+Status: #public-knowledge
 Tags: [[Autoregressive Mode]]
 # Yule-Walker 方法
 对于一般的自回归模型，有：

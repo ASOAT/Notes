@@ -1,5 +1,5 @@
 20250115
-Status: #methods
+Status: #public-knowledge
 Tags: [[Android 自定义View]]
 aliases: 
 # Android 自定义 View ColorFilter

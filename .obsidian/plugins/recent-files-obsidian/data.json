@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "20250305 文献阅读",
+      "path": "04ZJU/本科毕设/决策算法复现/20250305 文献阅读.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
     {
-      "basename": "Android 自定义View 属性动画",
-      "path": "01Zettelkasten/Android 自定义View 属性动画.md"
+      "basename": "20250304 多车交互博弈Demo",
+      "path": "04ZJU/本科毕设/决策算法复现/20250304 多车交互博弈Demo.md"
     },
     {
-      "basename": "Android 自定义View 绘制顺序",
-      "path": "01Zettelkasten/Android 自定义View 绘制顺序.md"
+      "basename": "20250225 CitySim数据集道路可视化",
+      "path": "04ZJU/本科毕设/决策算法复现/20250225 CitySim数据集道路可视化.md"
     },
     {
-      "basename": "Android 自定义View Canvas几何变换",
-      "path": "01Zettelkasten/Android 自定义View Canvas几何变换.md"
-    },
-    {
-      "basename": "Android 自定义View 文字绘制",
-      "path": "01Zettelkasten/Android 自定义View 文字绘制.md"
-    },
-    {
-      "basename": "Android 自定义View 绘制附加效果",
-      "path": "01Zettelkasten/Android 自定义View 绘制附加效果.md"
-    },
-    {
-      "basename": "Android 自定义View 获取绘制的Path",
-      "path": "01Zettelkasten/Android 自定义View 获取绘制的Path.md"
-    },
-    {
-      "basename": "Android 自定义View PathEffect",
-      "path": "01Zettelkasten/Android 自定义View PathEffect.md"
-    },
-    {
-      "basename": "20250114 光流方案",
-      "path": "00Project/2025/TUV莱茵防晕动APP+客观指标/20250114 光流方案.md"
-    },
-    {
-      "basename": "20250109 地平线方案",
-      "path": "00Project/2025/TUV莱茵防晕动APP+客观指标/20250109 地平线方案.md"
-    },
-    {
-      "basename": "20250113 雷霆战机方案",
-      "path": "00Project/2025/TUV莱茵防晕动APP+客观指标/20250113 雷霆战机方案.md"
-    },
-    {
-      "basename": "Android 自定义 View 色彩优化",
-      "path": "01Zettelkasten/Android 自定义 View 色彩优化.md"
-    },
-    {
-      "basename": "Android 自定义 View 线条形状",
-      "path": "01Zettelkasten/Android 自定义 View 线条形状.md"
-    },
-    {
-      "basename": "Android 自定义 View ColorFilter",
-      "path": "01Zettelkasten/Android 自定义 View ColorFilter.md"
-    },
-    {
-      "basename": "Android 自定义 View Shader",
-      "path": "01Zettelkasten/Android 自定义 View Shader.md"
-    },
-    {
-      "basename": "Android 自定义 View Xfermode",
-      "path": "01Zettelkasten/Android 自定义 View Xfermode.md"
-    },
-    {
-      "basename": "@kamijiModelingValidationCarsickness2007",
-      "path": "02Literature/@kamijiModelingValidationCarsickness2007.md"
-    },
-    {
-      "basename": "Android Camera",
-      "path": "01Zettelkasten/Android Camera.md"
-    },
-    {
-      "basename": "MSDV计算代码",
-      "path": "01Zettelkasten/MSDV计算代码.md"
-    },
-    {
-      "basename": "20241227本科毕设开题思考",
-      "path": "00Project/2025/本科毕设/开题/20241227本科毕设开题思考.md"
-    },
-    {
-      "basename": "20250108 Psychophysical用于动效评估初步想法",
-      "path": "00Project/2025/TUV莱茵防晕动APP+客观指标/20250108 Psychophysical用于动效评估初步想法.md"
-    },
-    {
-      "basename": "@sunCornerCaseGeneration2021",
-      "path": "02Literature/@sunCornerCaseGeneration2021.md"
-    },
-    {
-      "basename": "@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024",
-      "path": "02Literature/@ZhuZiDongJiaShiNiRenLianXuJiaoHuCeShiChangJingShengChengFangFa2024.md"
-    },
-    {
-      "basename": "@dingSurveySafetyCriticalDriving2023",
-      "path": "02Literature/@dingSurveySafetyCriticalDriving2023.md"
-    },
-    {
-      "basename": "如何记文献笔记",
-      "path": "03认知/如何记文献笔记.md"
-    },
-    {
-      "basename": "写作即思考",
-      "path": "03认知/写作即思考.md"
-    },
-    {
-      "basename": "关于完成一个话题，我所需要的",
-      "path": "03认知/关于完成一个话题，我所需要的.md"
-    },
-    {
-      "basename": "笔记分类",
-      "path": "03认知/笔记分类.md"
-    },
-    {
-      "basename": "视觉动效提示缓解晕动方案",
-      "path": "01Zettelkasten/视觉动效提示缓解晕动方案.md"
-    },
-    {
-      "basename": "视觉动效幅值映射",
-      "path": "01Zettelkasten/视觉动效幅值映射.md"
-    },
-    {
-      "basename": "Absolute Sensitivity",
-      "path": "01Zettelkasten/Absolute Sensitivity.md"
+      "basename": "20250303 晕动文献",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250303 晕动文献.md"
     },
     {
       "basename": "Tools",
       "path": "Tools.md"
     },
     {
-      "basename": "Theory of Signal Detection",
-      "path": "01Zettelkasten/Theory of Signal Detection.md"
+      "basename": "20250225 预测MISC",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250225 预测MISC.md"
     },
     {
-      "basename": "Fechner 定律",
-      "path": "01Zettelkasten/Fechner 定律.md"
+      "basename": "20250224 数据处理",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250224 数据处理.md"
     },
     {
-      "basename": "Difference Threshold",
-      "path": "01Zettelkasten/Difference Threshold.md"
+      "basename": "蒙特卡洛树搜索",
+      "path": "01Zettelkasten/蒙特卡洛树搜索.md"
     },
     {
-      "basename": "Weber公式",
-      "path": "01Zettelkasten/Weber公式.md"
+      "basename": "20250221 实车实验",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250221 实车实验.md"
     },
     {
-      "basename": "@gescheiderPsychophysicsFundamentals2016",
-      "path": "02Literature/@gescheiderPsychophysicsFundamentals2016.md"
+      "basename": "笔记分类",
+      "path": "03认知/笔记分类.md"
     },
     {
-      "basename": "Autoencoder",
-      "path": "01Zettelkasten/Autoencoder.md"
+      "basename": "20250220假人测试",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/TUV莱茵假人实验/20250220假人测试.md"
     },
     {
-      "basename": "Adaptive Stress Testing",
-      "path": "01Zettelkasten/Adaptive Stress Testing.md"
+      "basename": "Wit数据读取以及预处理",
+      "path": "01Zettelkasten/Wit数据读取以及预处理.md"
     },
     {
-      "basename": "最小二乘估计",
-      "path": "01Zettelkasten/最小二乘估计.md"
+      "basename": "遗憾最小算法",
+      "path": "01Zettelkasten/遗憾最小算法.md"
     },
     {
-      "basename": "自相关函数",
-      "path": "01Zettelkasten/自相关函数.md"
+      "basename": "结构因果模型",
+      "path": "01Zettelkasten/结构因果模型.md"
     },
     {
-      "basename": "自动驾驶道德挑战",
-      "path": "01Zettelkasten/自动驾驶道德挑战.md"
+      "basename": "技术方案",
+      "path": "04ZJU/本科毕设/开题/技术方案.md"
     },
     {
-      "basename": "周期核",
-      "path": "01Zettelkasten/周期核.md"
+      "basename": "20241227本科毕设开题思考",
+      "path": "04ZJU/本科毕设/开题/20241227本科毕设开题思考.md"
     },
     {
-      "basename": "晕动视觉缓解方案-圆点",
-      "path": "01Zettelkasten/晕动视觉缓解方案-圆点.md"
+      "basename": "0218满血Deepseek",
+      "path": "04ZJU/本科毕设/开题/0218满血Deepseek.md"
     },
     {
-      "basename": "永磁同步电机矢量控制",
-      "path": "01Zettelkasten/永磁同步电机矢量控制.md"
+      "basename": "Gaussian Process",
+      "path": "01Zettelkasten/Gaussian Process.md"
     },
     {
-      "basename": "心电信号处理",
-      "path": "01Zettelkasten/心电信号处理.md"
+      "basename": "高斯分布",
+      "path": "01Zettelkasten/高斯分布.md"
     },
     {
-      "basename": "线性核",
-      "path": "01Zettelkasten/线性核.md"
+      "basename": "20250219 工况设计",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/20250219 工况设计.md"
     },
     {
-      "basename": "皮电信号处理",
-      "path": "01Zettelkasten/皮电信号处理.md"
+      "basename": "来自DeepSeek的一些建议",
+      "path": "04ZJU/本科毕设/开题/来自DeepSeek的一些建议.md"
     },
     {
-      "basename": "拉格朗日方法",
-      "path": "01Zettelkasten/拉格朗日方法.md"
+      "basename": "多智能体强化学习中的博弈概念",
+      "path": "01Zettelkasten/多智能体强化学习中的博弈概念.md"
     },
     {
-      "basename": "高斯核",
-      "path": "01Zettelkasten/高斯核.md"
+      "basename": "混合交通流交叉口共享空间交互行为建模及仿真",
+      "path": "01Zettelkasten/混合交通流交叉口共享空间交互行为建模及仿真.md"
+    },
+    {
+      "basename": "@SunMianXiangZiDongJiaShiCeShiDeJiaoHuChangJingCeLueJianMoYuFangZhen2024",
+      "path": "02Literature/@SunMianXiangZiDongJiaShiCeShiDeJiaoHuChangJingCeLueJianMoYuFangZhen2024.md"
+    },
+    {
+      "basename": "教师-学生课程学习",
+      "path": "01Zettelkasten/教师-学生课程学习.md"
+    },
+    {
+      "basename": "Nash Q-learning",
+      "path": "01Zettelkasten/Nash Q-learning.md"
+    },
+    {
+      "basename": "@wangCommonRoadRLConfigurableReinforcement2021",
+      "path": "02Literature/@wangCommonRoadRLConfigurableReinforcement2021.md"
+    },
+    {
+      "basename": "纳什均衡",
+      "path": "01Zettelkasten/纳什均衡.md"
+    },
+    {
+      "basename": "迭代最优回应法",
+      "path": "01Zettelkasten/迭代最优回应法.md"
+    },
+    {
+      "basename": "Stackelberg博弈",
+      "path": "01Zettelkasten/Stackelberg博弈.md"
+    },
+    {
+      "basename": "侵入时间",
+      "path": "01Zettelkasten/侵入时间.md"
+    },
+    {
+      "basename": "IDM模型虚拟队列",
+      "path": "01Zettelkasten/IDM模型虚拟队列.md"
+    },
+    {
+      "basename": "Importance Sampling",
+      "path": "01Zettelkasten/Importance Sampling.md"
+    },
+    {
+      "basename": "连续量产古诺模型",
+      "path": "01Zettelkasten/连续量产古诺模型.md"
+    },
+    {
+      "basename": "场景定义",
+      "path": "01Zettelkasten/场景定义.md"
+    },
+    {
+      "basename": "openDrive文件格式",
+      "path": "01Zettelkasten/openDrive文件格式.md"
+    },
+    {
+      "basename": "视觉动效提示缓解晕动方案",
+      "path": "01Zettelkasten/视觉动效提示缓解晕动方案.md"
+    },
+    {
+      "basename": "20250125 使用平板自带移动传感器获取加速度信号",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/20250125 使用平板自带移动传感器获取加速度信号.md"
+    },
+    {
+      "basename": "Android 设备姿态估算",
+      "path": "01Zettelkasten/Android 设备姿态估算.md"
+    },
+    {
+      "basename": "Trasformer",
+      "path": "01Zettelkasten/Trasformer.md"
+    },
+    {
+      "basename": "随机梯度下降",
+      "path": "01Zettelkasten/随机梯度下降.md"
+    },
+    {
+      "basename": "矩阵内积求导",
+      "path": "01Zettelkasten/矩阵内积求导.md"
+    },
+    {
+      "basename": "20250131 Cheng Peng - Motion Comfort Talk",
+      "path": "01Zettelkasten/20250131 Cheng Peng - Motion Comfort Talk.md"
+    },
+    {
+      "basename": "20250113 纸飞机方案",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/20250113 纸飞机方案.md"
+    },
+    {
+      "basename": "20250113 雷霆战机方案",
+      "path": "00Project/2025/TUV莱茵防晕动APP+客观指标/20250113 雷霆战机方案.md"
+    },
+    {
+      "basename": "20250114 光流方案",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/20250114 光流方案.md"
+    },
+    {
+      "basename": "20250109 地平线方案",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/20250109 地平线方案.md"
+    },
+    {
+      "basename": "待读",
+      "path": "00Project/2025/本科毕设/寒假预研/待读.md"
+    },
+    {
+      "basename": "20250108 Psychophysical用于动效评估初步想法",
+      "path": "05HMA/2025/TUV莱茵防晕动APP+客观指标/20250108 Psychophysical用于动效评估初步想法.md"
     }
   ],
   "omittedPaths": [],
